@@ -4,7 +4,7 @@ Research and implementation of alpha factors as well as a risk factor model cons
 
 **1. Project scope**
 
-In this project, I am building a statistical risk model using PCA. Using this model, I am constructing a portfolio along with 5 alpha factors. I am creating these factors, then evaluating them using factor-weighted returns, quantile analysis, sharpe ratio, and turnover analysis. At the end of the project, I am optimising the portfolio using the risk model and factors as well as multiple optimisation formulations.
+The purpose of this project is to build a statistical risk model using PCA. Using this model, we are constructing a portfolio along with 5 alpha factors. We are creating these factors, then evaluating them using factor-weighted returns, quantile analysis, sharpe ratio, and turnover analysis. At the end of the project, the portfolio is optimised using the risk model and factors as well as multiple optimisation formulations.
 
 **2. Datasets used**
 
@@ -21,7 +21,7 @@ In order to make use of the project, the user should have a Python- version 3.5.
 
 **5. Authors**
 
-Svetlozar Stoev as a part of a project assignment from the Udacity 'AI for Trading' Nanodegree Program
+Svetlozar Stoev as a project assignment from the Udacity 'AI for Trading' Nanodegree Program
 
 **6. Resources Used**
 - Udacity 'AI for Trading' Nanodegree Program. Can be found at: https://in.udacity.com/course/ai-for-trading--nd880
